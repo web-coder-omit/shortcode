@@ -1,0 +1,32 @@
+<?php
+/**
+ * Plugin Name: shortcode
+ * Plugin URI:  Plugin URL Link
+ * Author:      Plugin Author Name
+ * Author URI:  Plugin Author Link
+ * Description: This plugin is made for practice which is "shortcode".
+ * Version:     0.1.0
+ * License:     GPL-2.0+
+ * License URL: http://www.gnu.org/licenses/gpl-2.0.txt
+ * text-domain: sc
+*/
+// function button_function($attribute){
+//  return sprintf( '<a href="%s">%s</a>',
+//  $attribute['url'],
+//  $attribute['title']
+
+//  );
+// }
+// add_shortcode('btn', 'button_function');
+// function button_functions(){
+// return sprintf(
+//     '<a href="%s">%s</a>',
+//      $attribute['url'],
+//      $attribute['title']
+// );
+// };
+// add_shortcode('button', 'button_functions');
+
+
+
+?>
